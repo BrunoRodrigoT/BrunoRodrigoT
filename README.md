@@ -7,6 +7,8 @@
  <img src="https://badges.pufler.dev/commits/monthly/BrunoRodrigoT" />
 </p>
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <div align="center">
